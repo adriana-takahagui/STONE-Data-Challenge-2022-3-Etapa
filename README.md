@@ -6,7 +6,7 @@
 
 O Data Challenge da Stone é um desafio de dados com o objetivo de impulsionar o desenvolvimento de pessoas brilhantes através de uma experiência mão na massa, baseada em desafios reais. <br>
 Afinal, dados são o novo petróleo, não é mesmo? <br>
-Nessa competição, foi elaborado alguns desafios inspirados em temas relevantes e reais, vivenciados pelas pessoas especialistas em dados na Stone.
+Nessa competição, foram elaborados alguns desafios inspirados em temas relevantes e reais, vivenciados pelas pessoas especialistas em dados na Stone.
 
 ## Descrição do Case
 
